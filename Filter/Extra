@@ -2,7 +2,7 @@
 # > Extra
 DOMAIN-SUFFIX, venmo.com, PROXY
 DOMAIN-SUFFIX, uber.com, PROXY
-DOMAIN-SUFFIX, linkedin, PROXY
+DOMAIN-SUFFIX, linkedin.com, PROXY
 DOMAIN-SUFFIX, shrtm.nu, PROXY
 DOMAIN-SUFFIX, substack.com, PROXY
 DOMAIN, ilovexjp.pages.dev, PROXY
