@@ -1,0 +1,15 @@
+payload:
+
+# > Apple
+##VOWIFI端口
+- DST-PORT,4500
+- SRC-PORT,4500
+- DST-PORT,500
+- SRC-PORT,500
+##VOWIFLIP
+- IP-CIDR,208.54.0.0/16,no-resolve
+- IP-CIDR,66.94.0.0/19,no-resolve
+- IP-CIDR,206.29.177.36/32,no-resolve
+- DOMAIN-SUFFIX,pub.3gppnetwork.org
+- DOMAIN-SUFFIX,t-mobile.com
+- DOMAIN-SUFFIX,wlan.three.com.hk
