@@ -1,39 +1,89 @@
 
 # > Extra
-DOMAIN-SUFFIX, venmo.com, PROXY
-DOMAIN-SUFFIX, uber.com, PROXY
-DOMAIN-SUFFIX, linkedin.com, PROXY
-DOMAIN-SUFFIX, shrtm.nu, PROXY
-DOMAIN-SUFFIX, substack.com, PROXY
-DOMAIN, ilovexjp.pages.dev, PROXY
-DOMAIN, cdn.jsdelivr.net, PROXY
-DOMAIN-KEYWORD, pass2u, PROXY
-DOMAIN-KEYWORD, flightradar24, PROXY
-DOMAIN-KEYWORD, linkedin, PROXY
-DOMAIN-KEYWORD, expedia, PROXY
-DOMAIN-KEYWORD, airasia, PROXY
-DOMAIN-SUFFIX, booking.com, PROXY
-DOMAIN-KEYWORD, tripadvisor, PROXY
-DOMAIN-KEYWORD, priceline, PROXY
-DOMAIN-KEYWORD, kayak, PROXY
-DOMAIN-KEYWORD, trivago, PROXY
-DOMAIN-KEYWORD, trv.cloud, PROXY
-DOMAIN-KEYWORD, wheretocredit, PROXY
-DOMAIN-KEYWORD, raise, PROXY
-DOMAIN-KEYWORD, liveatc, PROXY
-DOMAIN-KEYWORD, secretflying, PROXY
-DOMAIN-SUFFIX, bookwithmatrix.com, PROXY
-DOMAIN-KEYWORD, lifemiles, PROXY
-DOMAIN-KEYWORD, flyertalk, PROXY
-DOMAIN-KEYWORD, starlux, PROXY
-DOMAIN-KEYWORD, skiplagged.com, PROXY
-DOMAIN-KEYWORD, jiyou, PROXY
-DOMAIN-KEYWORD, hotelscombined, PROXY
-DOMAIN-SUFFIX, befrugal.com, PROXY
-DOMAIN-KEYWORD, uscreditcardguide, PROXY
-DOMAIN-KEYWORD, n3ro, PROXY
-DOMAIN-KEYWORD, v2ss, PROXY
-DOMAIN-SUFFIX, cashbackmonitor.com, PROXY
-DOMAIN-SUFFIX, topcashback.com, PROXY
-DOMAIN-KEYWORD, limbopro, PROXY
-DOMAIN-KEYWORD, v2ex, PROXY
+DOMAIN-KEYWORD, flyertalk
+DOMAIN-KEYWORD, tablecheck
+DOMAIN-KEYWORD, flighty
+DOMAIN-KEYWORD, copaair
+DOMAIN-KEYWORD, wanderu
+DOMAIN-KEYWORD, iberia
+DOMAIN-SUFFIX, naati.com.au
+DOMAIN-KEYWORD, airalo
+DOMAIN-KEYWORD, doordash
+DOMAIN-KEYWORD, sofi
+DOMAIN-KEYWORD, swagbucks
+DOMAIN-SUFFIX, capitaloneshopping.com
+DOMAIN-KEYWORD, wellsfargo
+DOMAIN-SUFFIX, maxmypoint.com
+DOMAIN-KEYWORD, ucu
+DOMAIN-SUFFIX, offer.love
+DOMAIN-KEYWORD, lyft
+DOMAIN-SUFFIX, wise.com
+DOMAIN-KEYWORD, ihg
+DOMAIN, price.com
+DOMAIN, iptv-org.github.io
+DOMAIN, raw.githubusercontent.com
+DOMAIN-KEYWORD, aadvantageeshopping
+DOMAIN-KEYWORD, citi
+DOMAIN-KEYWORD, capitalone, direct
+DOMAIN, www.58catnet.com
+DOMAIN-SUFFIX, uscardforum.com
+DOMAIN-SUFFIX, equifax.com
+DOMAIN-SUFFIX, experian.com
+DOMAIN-KEYWORD, fluz
+DOMAIN-SUFFIX, ups.com
+DOMAIN-KEYWORD, snapchat
+DOMAIN, checkmytrip.com
+DOMAIN-SUFFIX, paypal.com
+DOMAIN-SUFFIX, t-mobile.com
+DOMAIN-SUFFIX, pub.3gppnetwork.org
+IP-CIDR, 206.29.177.36/32
+IP-CIDR, 66.94.0.0/19
+IP-CIDR, 208.54.0.0/16
+DOMAIN-SUFFIX, usccstrategy.com
+DOMAIN-SUFFIX, intercom.help
+DOMAIN-KEYWORD, biltrewards
+DOMAIN-KEYWORD, lululemon
+DOMAIN-KEYWORD, mileageplan
+DOMAIN-KEYWORD, alaskaair
+DOMAIN-KEYWORD, discord
+DOMAIN-KEYWORD, octopus, 🇭🇰HK
+DOMAIN-KEYWORD, creditkarma
+DOMAIN-SUFFIX, rakuten.com
+DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, venmo.com
+DOMAIN-SUFFIX, uber.com
+DOMAIN-SUFFIX, linkedin.com
+DOMAIN-SUFFIX, shrtm.nu
+DOMAIN-SUFFIX, substack.com
+DOMAIN, ilovexjp.pages.dev
+DOMAIN, cdn.jsdelivr.net
+DOMAIN-KEYWORD, pass2u
+DOMAIN-KEYWORD, flightradar24
+DOMAIN-KEYWORD, linkedin
+DOMAIN-KEYWORD, expedia
+DOMAIN-KEYWORD, airasia
+DOMAIN-SUFFIX, booking.com
+DOMAIN-KEYWORD, tripadvisor
+DOMAIN-KEYWORD, priceline
+DOMAIN-KEYWORD, kayak
+DOMAIN-KEYWORD, trivago
+DOMAIN-KEYWORD, trv.cloud
+DOMAIN-KEYWORD, wheretocredit
+DOMAIN-KEYWORD, raise
+DOMAIN-KEYWORD, liveatc
+DOMAIN-KEYWORD, secretflying
+DOMAIN-SUFFIX, bookwithmatrix.com
+DOMAIN-KEYWORD, lifemiles
+DOMAIN-KEYWORD, flyertalk
+DOMAIN-KEYWORD, starlux
+DOMAIN-KEYWORD, skiplagged.com
+DOMAIN-KEYWORD, jiyou
+DOMAIN-KEYWORD, hotelscombined
+DOMAIN-SUFFIX, befrugal.com
+DOMAIN-KEYWORD, uscreditcardguide
+DOMAIN-KEYWORD, n3ro
+DOMAIN-KEYWORD, v2ss
+DOMAIN-SUFFIX, cashbackmonitor.com
+DOMAIN-SUFFIX, topcashback.com
+DOMAIN-KEYWORD, limbopro
+DOMAIN-KEYWORD, v2ex
